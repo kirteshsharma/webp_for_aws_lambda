@@ -2,7 +2,6 @@
 the **webp_for_aws_lambda** is convert normal image and `webp` file.
 ## Usage
 
-**Maven dependency**
 **API**
 
 ```java
